@@ -34,3 +34,6 @@ set incsearch
 " 只能搜索, 大小写
 set smartcase
 set backspace=2
+
+
+let g:coc_node_path='/usr/local/bin/node'
